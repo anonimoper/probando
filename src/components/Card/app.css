@@ -1,0 +1,21 @@
+.card {
+    background-color: rgb(45,45,45,1) !important;
+    margin-top:-120px;
+  }
+  
+  .card-img-top
+  {
+    height:120px;
+  }
+  
+  .card
+  {
+    color: rgba(88, 239, 206, 0.8) !important;
+  }
+  
+  @media (max-width: 600px) {
+    .card {
+      background-color: rgb(45,45,45,1) !important;
+      margin-top:10px;
+    }
+  }

@@ -1,0 +1,3 @@
+export const ADD_LOST_START = "ADD_LOST_START"
+export const ADD_LOST_COMPLETE = "ADD_LOST_COMPLETE"
+export const ADD_LOST_ERROR = "ADD_LOST_ERROR"

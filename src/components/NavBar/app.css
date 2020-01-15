@@ -1,0 +1,12 @@
+.navbar{
+    background-color: rgb(45,45,45,1)
+  }
+  
+  a{
+    color: rgba(88, 239, 206, 0.8) !important;
+  }
+  
+  .form-control
+  {
+    border-radius:8px;
+  }
